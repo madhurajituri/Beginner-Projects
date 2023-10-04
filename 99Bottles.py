@@ -8,6 +8,7 @@ def secondVerse(count, bottleTense):
 
 def lyrics():
     count = 99
+    a = 10
     bottleTense = "bottles"
 
     while count > 1:
