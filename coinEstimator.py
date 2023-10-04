@@ -8,6 +8,7 @@ quarterWeight = 5.670
 pennyWrapper = 50
 nickelWrapper = 40
 dimeWrapper = 50
+a = 30
 quarterWrapper = 40
 
 print("Welcome to the Coin Estimator!")
